@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Apercu";
+  font-style: normal;
+  font-weight: 200;
+  src: url(/fonts/Apercu-Light.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/Apercu-Light.woff2) format('woff2'),
+       url(/fonts/Apercu-Light.ttf)  format('truetype');
+}
+
+@font-face {
+  font-family: "Apercu";
+  font-style: italic;
+  font-weight: 200;
+  src: url(/fonts/Apercu-LightItalic.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/Apercu-LightItalic.woff2) format('woff2'),
+       url(/fonts/Apercu-LightItalic.ttf)  format('truetype');
+}
+
+@font-face {
+  font-family: "Apercu";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/Apercu-Regular.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/Apercu-Regular.woff2) format('woff2'),
+       url(/fonts/Apercu-Regular.ttf)  format('truetype');
+}
+
+@font-face {
+  font-family: "Apercu";
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/Apercu-RegularItalic.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/Apercu-RegularItalic.woff2) format('woff2'),
+       url(/fonts/Apercu-RegularItalic.ttf)  format('truetype');
+}
+
+@font-face {
+  font-family: "Apercu";
+  font-style: normal;
+  font-weight: 500;
+  src: url(/fonts/Apercu-Medium.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/Apercu-Medium.woff2) format('woff2'),
+       url(/fonts/Apercu-Medium.ttf)  format('truetype');
+}
+
+@font-face {
+  font-family: "Apercu";
+  font-style: italic;
+  font-weight: 500;
+  src: url(/fonts/Apercu-MediumItalic.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/Apercu-MediumItalic.woff2) format('woff2'),
+       url(/fonts/Apercu-MediumItalic.ttf)  format('truetype');
+}
+
+@font-face {
+  font-family: "Apercu-Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/Apercu-Mono.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/Apercu-Mono.woff2) format('woff2'),
+       url(/fonts/Apercu-Mono.ttf)  format('truetype');
+}
+
+* {
+	font-family: "Apercu";
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
